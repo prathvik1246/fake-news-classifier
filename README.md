@@ -60,7 +60,7 @@ matplotlib
 
 Then run:
 
-python src/train.py
+python3 src/train.py
 
 This will:
 - Clean and vectorize the text  
@@ -73,7 +73,7 @@ This will:
 
 To classify a custom news article:
 
-python src/predict.py --text "NASA finds water on Mars!"
+python3 src/predict.py --text "NASA finds water on Mars!"
 
 Example Output:
 
@@ -86,7 +86,7 @@ Confidence: 94.23%
 
 To visualize word frequency in fake vs real news:
 
-python src/wordclouds.py
+python3 src/wordclouds.py
 
 This will display:
 - A Fake News WordCloud  

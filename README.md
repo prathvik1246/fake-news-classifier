@@ -82,7 +82,7 @@ Confidence: 94.23%
 
 ---
 
-## 📊 WordClouds (Optional)
+## 📊 WordClouds
 
 To visualize word frequency in fake vs real news:
 
